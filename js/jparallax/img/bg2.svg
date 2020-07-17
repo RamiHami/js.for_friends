@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 438.5 223.5" style="enable-background:new 0 0 438.5 223.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);}
+	.st2{fill:url(#SVGID_3_);}
+	.st3{fill:url(#SVGID_4_);}
+</style>
+<g id="Планеты">
+	<g>
+		<g>
+			
+				<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="7.6723" y1="195.2508" x2="55.9231" y2="195.2508" gradientTransform="matrix(0.9056 -0.4241 0.4241 0.9056 -81.6164 32.5098)">
+				<stop  offset="0" style="stop-color:#3C0741"/>
+				<stop  offset="1" style="stop-color:#8A1C63"/>
+			</linearGradient>
+			<path class="st0" d="M44.2,183.6c-1.1-2.3-0.8-4.9,0.5-6.9c-6.9-5.3-16.5-6.6-24.9-2.7c-12.1,5.7-17.3,20-11.6,32.1
+				c5.7,12.1,20,17.3,32.1,11.6c11.5-5.4,16.8-18.7,12.4-30.4C49.3,188.3,45.7,186.8,44.2,183.6z"/>
+			
+				<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="15.6195" y1="186.9483" x2="24.6195" y2="186.9483" gradientTransform="matrix(0.9866 -0.1632 0.1632 0.9866 -32.1832 5.8435)">
+				<stop  offset="0" style="stop-color:#3C072B"/>
+				<stop  offset="1" style="stop-color:#3F1C63"/>
+			</linearGradient>
+			<circle class="st1" cx="18.2" cy="187" r="4.5"/>
+			
+				<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="14.3695" y1="209.0733" x2="24.6195" y2="209.0733" gradientTransform="matrix(0.9866 -0.1632 0.1632 0.9866 -32.1832 5.8435)">
+				<stop  offset="0" style="stop-color:#3C072B"/>
+				<stop  offset="1" style="stop-color:#3F1C63"/>
+			</linearGradient>
+			<circle class="st2" cx="21.2" cy="208.9" r="5.1"/>
+			
+				<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="36.1195" y1="203.0733" x2="41.8695" y2="203.0733" gradientTransform="matrix(0.9866 -0.1632 0.1632 0.9866 -32.1832 5.8435)">
+				<stop  offset="0" style="stop-color:#3C072B"/>
+				<stop  offset="1" style="stop-color:#3F1C63"/>
+			</linearGradient>
+			<circle class="st3" cx="39.4" cy="199.8" r="2.9"/>
+		</g>
+	</g>
+</g>
+</svg>
